@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Omar Belhaj"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG_Profil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal website"
   location         : "London, UK"
   email            : "omarbelhaj1@yahoo.fr"
