@@ -20,7 +20,7 @@ Implementation (using Python) of QUIC protocol in a distributed object detection
 December 2020
 
 insert content
-[Download](https://github.com/omarbelhaj99/omarbelhaj99.github.io/raw/master/Group B (1).pdf) a presentation of the project
+[Download](https://github.com/omarbelhaj99/omarbelhaj99.github.io/raw/master/spiking_pres.pdf) a presentation of the project
 
 ### High Level Computer Vision Project
 December 2020
